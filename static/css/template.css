@@ -1,0 +1,59 @@
+* {
+    background-color: #6D9BBC;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#bk_title {
+    text-align: center;
+    font-size: 30px;
+}
+
+#author {
+    font-size: 20px;
+    text-align: center;
+}
+
+#chapter_num{
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+li.line {
+    background-color: whitesmoke;
+    list-style-type: none;
+    padding-left: 10px;
+    width: 900px;
+    
+}
+
+#contents_box{
+    float: left;
+    width: 930px;
+    height: 500px;
+    padding-left: 8px;
+    overflow-y: scroll;
+    background-color: whitesmoke;
+    margin: 0;
+}
+
+.content {
+    display: inline;
+    background-color: whitesmoke;
+    width: 150px;
+    height: 150px;
+    justify-content: left;
+}
+
+#control_box{
+    border: 2px solid whitesmoke;
+    border-radius: 2px;
+    float: right;
+    width: 300px; 
+    height: 500px;
+    margin-right: 8px;
+    box-sizing: border-box;
+}
+
+.line:hover{
+    color: #113434;
+}
