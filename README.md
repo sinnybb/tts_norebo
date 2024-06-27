@@ -3,3 +3,4 @@
 
 
 ![image](https://github.com/sinnybb/tts_norebo/assets/153700515/f085aa6e-107b-454a-8a58-12cb9bc54f4e)
+<img src = "https://github.com/sinnybb/tts_norebo/assets/153700515/f085aa6e-107b-454a-8a58-12cb9bc54f4e" width="200" height="400"/>
