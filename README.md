@@ -3,8 +3,8 @@
 
 <p align="center">** 사이트 화면 및 프로젝트 소개 PPT **</p>
 <p align="center">
-  <img src="https://github.com/sinnybb/tts_norebo/assets/153700515/f085aa6e-107b-454a-8a58-12cb9bc54f4e" width="500" height="300" style="display:inline-block;"/>
-  <img src="https://github.com/sinnybb/tts_norebo/assets/153700515/af158c11-7135-4426-a999-27d83c599bbb" width="500" height="300" style="display:inline-block;"/>
+  <img src="https://github.com/sinnybb/tts_norebo/assets/153700515/f085aa6e-107b-454a-8a58-12cb9bc54f4e" width="490" height="300" style="display:inline-block;"/>
+  <img src="https://github.com/sinnybb/tts_norebo/assets/153700515/af158c11-7135-4426-a999-27d83c599bbb" width="490" height="300" style="display:inline-block;"/>
 </p>
 
 <hr>
@@ -29,12 +29,12 @@ Ocean big5 BERT model을 통해 성격을 분류하고, 각 값들을 StandardSc
 ## 출처
 이 프로젝트에서는 Hugging Face의 모델을 사용하였습니다. 아래는 사용한 모델의 출처입니다:
 
-사용 모델: [Minej/bert-base-personality](https://huggingface.co/Minej/bert-base-personality)
-내용 : 사람의 성격을 OCEAN big5로 구분하여 분석을 하게 됩니다. 아래는 구분되는 5가지 성격유형입니다.
-- "Extroversion": 외향성
-- "Neuroticism": 신경성
-- "Agreeableness": 우호성
-- "Conscientiousness": 성실성
-- "Openness": 개방성
+**사용 모델**: [Minej/bert-base-personality](https://huggingface.co/Minej/bert-base-personality) <br>
+**내용** : 사람의 성격을 OCEAN big5로 구분하여 분석을 하게 됩니다. 아래는 구분되는 5가지 성격유형입니다.
+  - "Extroversion": 외향성
+  - "Neuroticism": 신경성
+  - "Agreeableness": 우호성
+  - "Conscientiousness": 성실성
+  - "Openness": 개방성
 
 Hugging Face의 모델을 제공해주신 모든 분들께 감사드립니다.
